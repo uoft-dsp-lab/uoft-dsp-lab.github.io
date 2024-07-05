@@ -1,0 +1,87 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: arxiv:2310.00093
+  title: 'DataDAM: Efficient Dataset Distillation with Attention Matching'
+  authors:
+  - <strong>Ahmad Sajedi*</strong>
+  - <strong>Samir Khaki*</strong>
+  - Ehsan Amjadian
+  - Lucy Z. Liu
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+  date: '2023-11-01'
+  link: https://arxiv.org/abs/2310.00093
+  type: paper
+  image: images/paper_teasers/ICCV23-DataDAM.png
+  buttons:
+  - type: source
+    link: https://github.com/DataDistillation/DataDAM
+  - type: website
+    text: Project Page
+    link: https://datadistillation.github.io/DataDAM/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.17921
+  title: 'The Need for Speed: Pruning Transformers with One Recipe'
+  authors:
+  - <strong>Samir Khaki</strong>
+  - Konstantinos N. Plataniotis
+  publisher: International Conference on Learning Representations (ICLR)
+  date: '2024-03-27'
+  link: https://arxiv.org/abs/2403.17921
+  type: paper
+  image: images/paper_teasers/ICLR24-Transformer.png
+  buttons:
+  - type: source
+    link: https://github.com/Skhaki18/optin-transformer-pruning
+  - type: website
+    text: Project Page
+    link: http://www.samirkhaki.com/optin-transformer-pruning/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2401.01448
+  title: 'ProbMCL: Simple Probabilistic Contrastive Learning for Multi-label Visual
+    Classification'
+  authors:
+  - <strong>Ahmad Sajedi</strong>
+  - Samir Khaki
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  date: '2024-04-15'
+  link: https://arxiv.org/abs/2401.01448
+  type: paper
+  image: images/paper_teasers/ICASSP24-ProbMCL.jpg
+  buttons:
+  - type: source
+    link: https://github.com/AhmadSajedii/ProbMCL
+  - type: website
+    text: Project Page
+    link: https://ahmadsajedii.github.io/ProbMCL/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2405.01373
+  title: 'ATOM: Attention Mixer for Efficient Dataset Distillation'
+  authors:
+  - <strong>Samir Khaki*</strong>
+  - <strong>Ahmad Sajedi*</strong>
+  - Kai Wang
+  - Lucy Z. Liu
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition -- Dataset
+    Distillation Workshop (CVPR-DD)
+  date: '2024-05-03'
+  link: https://arxiv.org/abs/2405.01373
+  type: paper
+  image: images/paper_teasers/CVPR24-ATOM.png
+  buttons:
+  - type: source
+    link: https://github.com/DataDistillation/ATOM
+  - type: website
+    text: Project Page
+    link: https://datadistillation.github.io/ATOM/
+  plugin: sources.py
+  file: sources.yaml

@@ -1,0 +1,120 @@
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
+
+# - id: doi:10.1016/j.csbj.2020.05.017
+#   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+# - id: doi:10.7554/eLife.32822
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: arxiv:2310.00093
+  type: paper
+  authors:
+  - <strong>Ahmad Sajedi*</strong>
+  - <strong>Samir Khaki*</strong>
+  - Ehsan Amjadian
+  - Lucy Z. Liu
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+  image: images/paper_teasers/ICCV23-DataDAM.png
+  buttons:
+  - type: source
+    link: https://github.com/DataDistillation/DataDAM
+  - type: website
+    text: Project Page
+    link: https://datadistillation.github.io/DataDAM/
+
+- id: arxiv:2403.17921
+  type: paper
+  authors:
+  - <strong>Samir Khaki</strong>
+  - Konstantinos N. Plataniotis
+  publisher: International Conference on Learning Representations (ICLR)
+  image: images/paper_teasers/ICLR24-Transformer.png
+  buttons:
+  - type: source
+    link: https://github.com/Skhaki18/optin-transformer-pruning
+  - type: website
+    text: Project Page
+    link: http://www.samirkhaki.com/optin-transformer-pruning/
+
+- id: arxiv:2401.01448
+  type: paper
+  authors:
+  - <strong>Ahmad Sajedi</strong>
+  - Samir Khaki
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+  image: images/paper_teasers/ICASSP24-ProbMCL.jpg
+  buttons:
+  - type: source
+    link: https://github.com/AhmadSajedii/ProbMCL
+  - type: website
+    text: Project Page
+    link: https://ahmadsajedii.github.io/ProbMCL/
+
+- id: arxiv:2405.01373
+  type: paper
+  authors:
+  - <strong>Samir Khaki*</strong>
+  - <strong>Ahmad Sajedi*</strong>
+  - Kai Wang
+  - Lucy Z. Liu
+  - Yuri A. Lawryshyn
+  - Konstantinos N. Plataniotis
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition -- Dataset Distillation Workshop (CVPR-DD)
+  image: images/paper_teasers/CVPR24-ATOM.png
+  buttons:
+  - type: source
+    link: https://github.com/DataDistillation/ATOM
+  - type: website
+    text: Project Page
+    link: https://datadistillation.github.io/ATOM/
+
+
+# - id: doi:10.1109/ICCV51070.2023.01568
+  
+  
+#   title: "DataDAM: Efficient Dataset Distillation with Attention Matching"
+#   authors:
+#   - Ahmad Sajedi*
+#   - Samir Khaki*
+#   - Ehsan Amjadian
+#   - Lucy Z. Liu
+#   - Yuri A. Lawryshyn
+#   - Konstantinos N. Plataniotis
+#   publisher: IEEE/CVF International Conference on Computer Vision (ICCV)
+#   date: '2023-10-2'
+#   link: http://dx.doi.org/10.1109/ICCV51070.2023.01568
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#   plugin: orcid.py
+#   file: orcid.yaml
+
+# - id: doi:10.48550/arXiv.2403.17921
+#   title: "The Need for Speed: Pruning Transformers with One Recipe"
+#   authors:
+#   - Samir Khaki*
+#   - Konstantinos N. Plataniotis
+#   publisher: International Conference on Learning Representations (ICLR)
+#   date: '2024-5-7'
+#   link: https://doi.org/10.48550/arXiv.2403.17921
+#   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+#   plugin: orcid.py
+#   file: orcid.yaml
