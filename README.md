@@ -2,4 +2,4 @@
 <p align="center">
 <img height="200" src="images/cover_photos/LabPageHome.png" alt="Lab Website">
 </p>
-![Visit our Lab Page](https://uoft-dsp-lab.github.io)
+Visit our Lab Page: https://uoft-dsp-lab.github.io
