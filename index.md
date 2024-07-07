@@ -33,12 +33,18 @@ The Multimedia Laboratory at the University of Toronto, is part of the Communica
 %}
 
 {% include section.html %}
+## News
+
+* Call for participation! Excited to announce the first Dataset Distillation Challenge at ECCV-2024 in Milan, Italy! Competition Details available at: [http://dd-challenge.com/](http://dd-challenge.com/)
+
+* We are also hosting the ICASSP 2024 SP Grand Challenge on
+Hyperspectral Skin Vision: Can Your Camera See beyond Your Skin? Challenge Details available at: [https://uoft-hyperskin.github.io](https://uoft-hyperskin.github.io)
 
 ## Highlights
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
 {% capture text %}
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
 {%
   include button.html

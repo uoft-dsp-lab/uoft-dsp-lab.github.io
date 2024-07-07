@@ -85,3 +85,26 @@
     link: https://datadistillation.github.io/ATOM/
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2310.17911
+  title: 'Hyper-Skin: A Hyperspectral Dataset for Reconstructing Facial Skin-Spectra
+    from RGB Images'
+  authors:
+  - <strong>Pai Chet Ng</strong>
+  - Zhixiang Chi
+  - Yannick Verdie
+  - Juwei Lu
+  - Konstantinos N. Plataniotis
+  publisher: Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks
+    Track
+  date: '2023-10-30'
+  link: https://arxiv.org/abs/2310.17911
+  type: paper
+  image: images/background.jpg
+  buttons:
+  - type: source
+    link: https://github.com/hyperspectral-skin/Hyper-Skin-2023
+  - type: website
+    text: Project Page
+    link: https://hyper-skin-2023.github.io
+  plugin: sources.py
+  file: sources.yaml

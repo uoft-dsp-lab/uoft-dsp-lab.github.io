@@ -63,3 +63,20 @@
   - type: website
     text: Project Page
     link: https://datadistillation.github.io/ATOM/
+
+- id: arxiv:2310.17911
+  type: paper
+  authors:
+  - <strong>Pai Chet Ng</strong>
+  - Zhixiang Chi 
+  - Yannick Verdie
+  - Juwei Lu
+  - Konstantinos N. Plataniotis
+  publisher: Neural Information Processing Systems (NeurIPS) 2023 Datasets and Benchmarks Track
+  image: images/background.jpg
+  buttons:
+  - type: source
+    link: https://github.com/hyperspectral-skin/Hyper-Skin-2023
+  - type: website
+    text: Project Page
+    link: https://hyper-skin-2023.github.io
