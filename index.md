@@ -22,14 +22,14 @@ The Multimedia Laboratory at the University of Toronto, is part of the Communica
   include button.html
   type="github"
   text="On GitHub"
-  link="https://github.com/uoft-dsp-lab"
+  link="uoft-dsp-lab"
 %}
 
 {%
   include button.html
   type="huggingface"
   text="On HuggingFace"
-  link="https://huggingface.co/uoft-dsp-lab"
+  link="uoft-dsp-lab"
 %}
 
 {% include section.html %}
