@@ -1,5 +1,5 @@
 ---
-name: Member Name
+name: Arash Rasti
 image: images/profiles/MemberName.png
 role: phd
 affiliation: University of Toronto
