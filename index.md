@@ -59,7 +59,7 @@ Hyperspectral Skin Vision: Can Your Camera See beyond Your Skin? Challenge Detai
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/background.jpg"
   link="research"
   title="Our Research"
   text=text
