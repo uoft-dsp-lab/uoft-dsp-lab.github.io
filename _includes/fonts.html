@@ -15,3 +15,15 @@
 <noscript>
   <link href="{{ fontawesome }}" rel="stylesheet">
 </noscript>
+
+<!-- Academic Icons (load asynchronously due to size) -->
+{% assign academicicons = "https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css" %}
+<link
+  href="{{ academicicons }}"
+  rel="stylesheet"
+  media="none"
+  onload="this.removeAttribute('media'); this.onload = null;"
+/>
+<noscript>
+  <link href="{{ academicicons }}" rel="stylesheet">
+</noscript>
